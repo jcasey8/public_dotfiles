@@ -1,2 +1,3 @@
-# public_dotfiles
+# Public Dotfiles
 My Shareable Dotfiles
+
